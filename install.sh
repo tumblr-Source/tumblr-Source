@@ -7,12 +7,7 @@ chmod +x tumblr-Source
 chmod +x ts
 ./ts
 }
-get() {
-rm -fr tumblr-Source.lua
-rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/tumblr-Source/tumblr-Source/master/tumblr-Source.lua"
-lua start.lua
-}
+
 installall(){
 apt update
 apt upgrade
