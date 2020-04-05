@@ -5898,7 +5898,7 @@ t = "*📬┇ بالتاكيد تم تنزيل وتفعيل ملف » {"..file..
 else
 t = "*🗂┇ الملف » {"..file.."}\n📬┇ تم تنزيله وتفعيله بنجاح \n💥*"
 end
-local json_file, res = https.request("https://raw.githubusercontent.com/tumblr-Source/files_tshake/master/files_tshake/"..file)
+local json_file, res = https.request("https://raw.githubusercontent.com/tshakeabas/files_tshake/master/files_tshake/"..file)
 if res == 200 then
 local chek = io.open("Tshake_Files/"..file,'w+')
 chek:write(json_file)
