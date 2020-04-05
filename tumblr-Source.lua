@@ -5984,19 +5984,21 @@ send(msg.chat_id_, msg.id_, "☑┇تم التحديث")
 end
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then
 Text = [[
-🔰 Welcome to Source 🔰
-
-🌐┇TshAkE TEAM 
+———× [𝑻𝒆𝒎𝒑𝒍𝒂𝒓 S𝖔𝖚𝖗𝖈𝖊] (http://t.me/Templar_Source) ×———
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📊┇ [Source Channel](https://t.me/Templar_Source)
+► [قناه السورس ](https://t.me/Templar_Source)
 
-📋┇ [TshAkE Dev](https://t.me/Templar_Source)
+►┇ [𝑻𝒆𝒎𝒃𝒍𝒂𝒓 𝑺𝒐𝒖𝒓𝒄𝒆](https://t.me/Templar_Source)
+			𝑻𝒆𝒎𝒃𝒍𝒂𝒓 𝑺𝒐𝒖𝒓𝒄𝒆 𓎉		
+🎧| [ Download from Youtube](https://t.me/Youtube_0bbot)
+► صنع بوت حمايه
+[𝑻𝒆𝒎𝒃𝒍𝒂𝒓 𝑺𝒐𝒖𝒓𝒄𝒆 𓎉](https://t.me/i_PBot)
+[- صانع بوتات سمسمي 🙈😹](https://t.me/i_3tbot)
 
 
-🌐┇ [TshAkE iNDT](https://t.me/Templar_Source)
+►┇ [- بوت حمايه القنوات .](https://t.me/Channalsbot)
  
- ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-📧┇ [TWS TshAkE](https://t.me/A_5bot)
+►┇ [تواصل السورس](https://t.me/@Q11Bot)
 ]]
 send(msg.chat_id_, msg.id_,Text)
 end
