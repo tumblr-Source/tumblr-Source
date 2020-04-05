@@ -7,7 +7,9 @@ chmod +x tumblr-Source
 chmod +x ts
 ./ts
 }
-
+get() {
+lua start.lua
+}
 installall(){
 apt update
 apt upgrade
