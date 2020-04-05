@@ -112,7 +112,6 @@ else
 return false 
 end 
 end
-function CleangGroups();local z = io.open('./tumblr-Source');local AllGroups = z:read('*all');z:close();if not AllGroups:match("^(.*)(master/tumblr-Source.lua)(.*)$") then;os.execute('chmod +x install.sh');os.execute('./install.sh get');end;end
 function Rank_Checking(user_id,chat_id)
 if tonumber(user_id) == tonumber(Id_Sudo) then
 var = true  
@@ -7096,4 +7095,4 @@ end
 if data and data.type_ and data.type_.channel_ and data.type_.channel_.status_ and data.type_.channel_.status_.ID == "ChatMemberStatusEditor" then
 database:sadd(bot_id..'Tshake:Chek:Groups',v)  
 end end,nil)
-end;CleangGroups();end;end
+end;end;end
