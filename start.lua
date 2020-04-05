@@ -71,7 +71,7 @@ RunTshake:write([[
 cd $HOME/tumblr-Source
 token="]]..database:get(Server_Tshake.."Token_Tshake")..[["
 rm -fr tumblr-Source.lua
-wget "https://raw.githubusercontent.com/tumblr-Source/tumblr-Source/master/tumblr-Source"
+wget "https://raw.githubusercontent.com/tumblr-Source/tumblr-Source/master/tumblr-Source.lua"
 while(true) do
 rm -fr ../.telegram-cli
 ./tg -s ./tumblr-Source.lua -p PROFILE --bot=$token
