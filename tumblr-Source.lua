@@ -6009,7 +6009,7 @@ Text = [[
 🎖┇م4 ~⪼ لعرض اوامر المنشئين
 👤┇م5 ~⪼ لعرض اوامر المطورين
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @Templar_Source
+📡┇CH [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6047,7 +6047,7 @@ Text = [[
 🔐┇الكلايش
 🔐┇السيلفي
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇Ch ~⪼ @Templar_Source
+📡┇Ch ~⪼ [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6113,7 +6113,7 @@ Text = [[
 📮┇الصلاحيات
 📮┇الرابط
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @Templar_Source
+📡┇CH [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6157,7 +6157,7 @@ Text = [[
 تغير رد المميز + النص
 تغير رد العضو + النص
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @Templar_Source
+📡┇CH [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6182,7 +6182,7 @@ Text = [[
 ➕┇اضف رسائل + العدد بالرد
 ➕┇اضف مجوهرات + العدد بالرد
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @Templar_Source
+📡┇CH [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6228,7 +6228,7 @@ Text = [[
 ➕┇اذاعه بالتثبيت 
 ➕┇الاحصائيات 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @Templar_Source
+📡┇CH [@Templar_Source]
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
