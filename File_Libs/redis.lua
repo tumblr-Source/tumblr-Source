@@ -795,19 +795,7 @@ local function connect_tcp(socket, parameters)
 >> Best Source in Telegram
 >> Features fast and powerful
 
- /$$$$$$$$        /$$                 /$$                
-|__  $$__/       | $$                | $$                
-   | $$  /$$$$$$$| $$$$$$$   /$$$$$$ | $$   /$$  /$$$$$$ 
-   | $$ /$$_____/| $$__  $$ |____  $$| $$  /$$/ /$$__  $$
-   | $$|  $$$$$$ | $$  \ $$  /$$$$$$$| $$$$$$/ | $$$$$$$$
-   | $$ \____  $$| $$  | $$ /$$__  $$| $$_  $$ | $$_____/
-   | $$ /$$$$$$$/| $$  | $$|  $$$$$$$| $$ \  $$|  $$$$$$$
-   |__/|_______/ |__/  |__/ \_______/|__/  \__/ \_______/
-                                                                                                                                                                         
->> CH > @TSHAKETEAM
->> CH > @ZX_XX 
->> DEVELOPER > @TAHAJ20
->> DEVELOPER > @VVWVV
+
 ]].."\27[m")
 	os.exit()
     --redis.error('could not connect to '..host..':'..port..' ['..err..']')
