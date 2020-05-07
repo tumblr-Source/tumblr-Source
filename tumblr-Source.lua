@@ -5977,12 +5977,19 @@ if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or tex
 Text = [[
 🔷 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝖲𝗈𝗎𝗋𝖼𝖾 .⚙️.
  ⌓.⌓.⌓.⌓.⌓.⌓.⌓.⌓.⌓.⌓.⌓
+					
 [«🥇|𝖳𝖾𝗆𝖻𝗅𝗋 𝖲𝗈𝗎𝗋𝖼𝖾.⚙️.](https://t.me/Templar_Source)
+					
 [«🔰 | 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖥𝗋𝗈𝗆 𝖸𝗈𝗎𝗍𝖾𝖻.⚙️. ](http://t.me/Youtube_0bbot)
+					
 [«🗳| 𝖳𝖾𝗆𝖻𝗅𝖺𝗋 𝖲𝗈𝗎𝗋𝖼𝖾.⚙️.](http://t.me/i_PBot)
+					
 [«⚜️| SimSimi 𝖡𝗈𝗍 𝖬𝖺𝗄𝖾𝗋.〽️.](http://t.me/i_3tbot)
+					
 [«⚠️ | 𝖡𝗈𝗍 𝖯𝗋𝗈𝗍𝖾𝖼𝗍𝗂𝗈𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅𝗌.💯.](http://t.me/Channalsbot)
-[«🚸 | 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝗇𝗍𝗂𝗇𝗎𝖾𝗌.✅. (http://t.me/Q11BOT)](https://t.me/i_3tbot)
+					
+[«🚸 | 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝗇𝗍𝗂𝗇𝗎𝖾𝗌.✅.](https://t.me/i_3tbot)
+					
 ]]
 send(msg.chat_id_, msg.id_,Text)
 end
