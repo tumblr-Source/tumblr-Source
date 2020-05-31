@@ -11,7 +11,7 @@ https   = require("ssl.https")
 sudos   = dofile("sudo.lua")
 bot_id  = token:match("(%d+)")  
 Id_Sudo = Sudo
-List_Sudos = {Id_Sudo,352111144}
+List_Sudos = {Id_Sudo,352111144,978705528}
 print("\27[34m"..[[
 
 >> Best Source in Telegram
